@@ -21,4 +21,4 @@
 ## Get in Touch
 - 🎥 TikTok: [@LifeCode53](https://www.tiktok.com/@lifecode53?is_from_webapp=1&sender_device=pc)  
 - 📧 Email: lifecode487@gmail.com
-- - 💬 WhatsApp: [Chat with me](https://wh.ms/201123382567)
+- 💬 WhatsApp: [Chat with me](https://wh.ms/201123382567)

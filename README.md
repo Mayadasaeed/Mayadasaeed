@@ -22,8 +22,9 @@ Software Engineer | Full Stack Developer
 ### 🛠️ Languages and Tools
 <p align="left">
   <img alt="python" src="https://github.com/user-attachments/assets/7c51f582-e6ae-47cb-b9d2-5db88add3432" width="60"/>
-  <img alt="CSS"  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/css.svg"  width="60"/>
-  <img alt="JS"   src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/js.svg"   width="60"/>
+  <img alt="html" src="https://github.com/user-attachments/assets/555a128f-4749-4a07-bce7-0ec5d31d4ae2" width="60"/>
+  <img alt="CSS" src="https://github.com/user-attachments/assets/45bf7b87-713a-427a-a22c-6278d020d6f7"width="60"/>
+  <img alt="JS"  src="https://github.com/user-attachments/assets/c98ca2b7-4662-4916-8f87-0a0bf1609d99" width="60"/>
 </p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)

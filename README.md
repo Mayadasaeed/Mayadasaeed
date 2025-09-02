@@ -1,6 +1,7 @@
-# Hi, I'm Mayada 👋
+# Hi, I'm Mayada Saeed
 
-💻 Frontend Developer | React 
+*Frontend Developer | React*
+![Profile views](https://komarev.com/ghpvc/?username=YourUserName&color=blueviolet)
 ⚡ 1.5 years of experience in web development  
 🤖 Exploring AI tools to build smarter web apps  
 🚀 Passionate about coding & continuous learning  

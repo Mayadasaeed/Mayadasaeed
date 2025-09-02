@@ -25,8 +25,10 @@ Software Engineer | Full Stack Developer
   <img alt="html" src="https://github.com/user-attachments/assets/555a128f-4749-4a07-bce7-0ec5d31d4ae2" width="60"/>
   <img alt="CSS" src="https://github.com/user-attachments/assets/45bf7b87-713a-427a-a22c-6278d020d6f7"width="60"/>
   <img alt="JS"  src="https://github.com/user-attachments/assets/c98ca2b7-4662-4916-8f87-0a0bf1609d99" width="60"/>
-  <img alt="mongodb"  src="https://www.svgrepo.com/show/354090/mongodb.svg" width="100"/>
-  <img alt="postman"  src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="100"/>
+  <img alt="postman"  src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="60"/>
+  <img alt=""  src="https://github.com/user-attachments/assets/ba319aac-1d16-48a0-85f2-c8db636e32f8" width="60"/>
+  <img alt=""  src="https://github.com/user-attachments/assets/91d47bc4-e5b3-43cf-9089-67445120b556" width="60"/>
+  <img alt=""  src="https://github.com/user-attachments/assets/5b84c20a-0633-4270-b7de-b760b76529ee" width="60"/>
 
 </p>
 

@@ -27,9 +27,8 @@ Software Engineer | Full Stack Developer
   <img alt="JS"  src="https://github.com/user-attachments/assets/c98ca2b7-4662-4916-8f87-0a0bf1609d99" width="60"/>
   <img alt="postman"  src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="60"/>
   <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/git_plain_logo_icon_146507.png" width="60"/>
+  <img alt=""  src="https://images.icon-icons.com/936/PNG/512/github-logo_icon-icons.com_73546.png" width="60"/>
   <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="60"/>
-  <img alt=""  src="https://github.com/user-attachments/assets/5b84c20a-0633-4270-b7de-b760b76529ee" width="60"/>
-
 </p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)

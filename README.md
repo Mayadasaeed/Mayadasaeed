@@ -34,17 +34,10 @@ Software Engineer | Full Stack Developer
   <img alt="python" src="https://github.com/user-attachments/assets/7c51f582-e6ae-47cb-b9d2-5db88add3432" width="60"/>
   <img alt="node.js"  src="https://images.icon-icons.com/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="60"/>
 </p>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-
 ---
 
 ### 📫 Contact
+<a href="https://wh.ms/201123382567"> <img alt="whatsapp"  src="https://images.icon-icons.com/840/PNG/512/Whatsapp_icon-icons.com_66931.png" width="100"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![CV](https://img.shields.io/badge/CV-grey?logo=readme&logoColor=white)](https://your-cv-link.com)

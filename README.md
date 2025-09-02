@@ -1,7 +1,9 @@
 # Hi, I'm Mayada Saeed
 
 *Frontend Developer | React*
-![Profile views](https://komarev.com/ghpvc/?username=YourUserName&color=blueviolet)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 ⚡ 1.5 years of experience in web development  
 🤖 Exploring AI tools to build smarter web apps  
 🚀 Passionate about coding & continuous learning  

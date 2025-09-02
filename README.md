@@ -20,7 +20,7 @@ Software Engineer | Full Stack Developer
 ---
 
 ### 🛠️ Languages and Tools
-<p align="center">
+<p align="center" gap="10px">
   <img alt="html" src="https://github.com/user-attachments/assets/555a128f-4749-4a07-bce7-0ec5d31d4ae2" width="60"/>
   <img alt="CSS" src="https://github.com/user-attachments/assets/45bf7b87-713a-427a-a22c-6278d020d6f7"width="60"/>
   <img alt="JS"  src="https://github.com/user-attachments/assets/c98ca2b7-4662-4916-8f87-0a0bf1609d99" width="60"/>

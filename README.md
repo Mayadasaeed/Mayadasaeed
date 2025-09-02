@@ -21,7 +21,7 @@ Software Engineer | Full Stack Developer
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img alt="HTML" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/html.svg" width="60"/>
+  <img alt="python" src="https://github.com/user-attachments/assets/7c51f582-e6ae-47cb-b9d2-5db88add3432" width="60"/>
   <img alt="CSS"  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/css.svg"  width="60"/>
   <img alt="JS"   src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/js.svg"   width="60"/>
 </p>

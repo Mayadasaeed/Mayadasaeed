@@ -20,19 +20,19 @@ Software Engineer | Full Stack Developer
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <img alt="python" src="https://github.com/user-attachments/assets/7c51f582-e6ae-47cb-b9d2-5db88add3432" width="60"/>
+<p align="center">
   <img alt="html" src="https://github.com/user-attachments/assets/555a128f-4749-4a07-bce7-0ec5d31d4ae2" width="60"/>
   <img alt="CSS" src="https://github.com/user-attachments/assets/45bf7b87-713a-427a-a22c-6278d020d6f7"width="60"/>
   <img alt="JS"  src="https://github.com/user-attachments/assets/c98ca2b7-4662-4916-8f87-0a0bf1609d99" width="60"/>
   <img alt="postman"  src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2107/PNG/512/file_type_tailwind_icon_130128.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2107/PNG/512/file_type_sass_icon_130182.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/git_plain_logo_icon_146507.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/936/PNG/512/github-logo_icon-icons.com_73546.png" width="60"/>
-  <img alt=""  src="https://images.icon-icons.com/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="60"/>
+  <img alt="taiwand"  src="https://images.icon-icons.com/2107/PNG/512/file_type_tailwind_icon_130128.png" width="60"/>
+  <img alt="sass"  src="https://images.icon-icons.com/2107/PNG/512/file_type_sass_icon_130182.png" width="60"/>
+  <img alt="boot"  src="https://images.icon-icons.com/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" width="60"/>
+  <img alt="react"  src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" width="60"/>
+  <img alt="git"  src="https://images.icon-icons.com/2415/PNG/512/git_plain_logo_icon_146507.png" width="60"/>
+  <img alt="github"  src="https://images.icon-icons.com/2429/PNG/512/github_logo_icon_147285.png" width="60"/>
+  <img alt="python" src="https://github.com/user-attachments/assets/7c51f582-e6ae-47cb-b9d2-5db88add3432" width="60"/>
+  <img alt="node.js"  src="https://images.icon-icons.com/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="60"/>
 </p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)

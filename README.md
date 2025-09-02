@@ -20,6 +20,12 @@ Software Engineer | Full Stack Developer
 ---
 
 ### 🛠️ Languages and Tools
+<p align="left">
+  <img alt="HTML" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/html.svg" width="60"/>
+  <img alt="CSS"  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/css.svg"  width="60"/>
+  <img alt="JS"   src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/js.svg"   width="60"/>
+</p>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
